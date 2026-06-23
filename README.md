@@ -1,10 +1,10 @@
-# ShopSphere – Product Listing Application
+# Product Listing Application
 
 A responsive React e-commerce product listing and detail application built for the Leegality Frontend Engineer Assessment.
 
 ## Live Demo
 
-Add your deployed Vercel/Netlify link here.
+https://leegality-product-app-alpha.vercel.app/
 
 ## Features
 
@@ -41,7 +41,7 @@ Add your deployed Vercel/Netlify link here.
 ## Setup Instructions
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/aaadi-debug/leegality-product-app.git
 cd leegality-product-app
 npm install
 npm run dev
