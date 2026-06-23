@@ -40,19 +40,19 @@ https://leegality-product-app-alpha.vercel.app/
 
 ## Setup Instructions
 
-\`\`\`bash
+```bash
 git clone https://github.com/aaadi-debug/leegality-product-app.git
 cd leegality-product-app
 npm install
 npm run dev
-\`\`\`
+```
 
 ## Production Build
 
-\`\`\`bash
+```bash
 npm run build
 npm run preview
-\`\`\`
+```
 
 ## Assumptions Made
 
